@@ -23,15 +23,18 @@ git clone <repository-url>
 cd aegis
 ```
 
-2. Build the project:
+2. Install the csv file from the link in Install_csv_here.md and place it right inside the folder
+
+3. Build the project:
 ```bash
 make
 ```
 
-3. Install (optional):
+4. Install (optional):
 ```bash
 sudo make install
 ```
+
 
 ## Usage
 
